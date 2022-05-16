@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fasola33
+- 👋 Hi, I’m Gabriel Fasolim
 - 👀 I’m interested in work with program development
 - 🌱 I’m currently learning Python, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
